@@ -19,7 +19,7 @@
             }
             
             else {
-                echo "Não foi possível cadastrar esse aluno, tente novamente.";
+                echo "Não foi possível cadastrar este aluno, tente novamente.";
             }
             $stmt->close();
             $con->close();
@@ -39,13 +39,14 @@
     <h1 class="textTitulo">Insira os Novos Dados</h1>
 
     <form action="" method="POST">
-        <label for="codigo">Registro</label>
+        <label for="registro">Registro</label>
         <input type="text" name="registro" id="registro" required>
         <label for="nome">Nome</label>
         <input type="text" name="nome" id="nome" required>
-        <label for="email">Data de nascimento</label>
+        <label for="dataNascimento">Data de nascimento</label>
         <input type="date" name="dataNascimento" id="dataNascimento" required>
-        <button type="submit" class="btn-form" name="btnInserir">OK</button>
+
+        <button type="submit" class="btn-form" name="btnInserirAlunos">OK</button>
     </form>
 
 </body>

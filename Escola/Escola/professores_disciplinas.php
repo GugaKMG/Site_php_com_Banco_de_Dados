@@ -40,9 +40,9 @@
             <th><strong>Livro</strong></th>
             <th><strong>Código do Professor</strong></th>
             <th><strong>Nome do Professor</strong></th>
-            <th><strong>email</strong></th>
-            <th><strong>titulação</strong></th>
-            <th><strong>idade</strong></th>
+            <th><strong>Email</strong></th>
+            <th><strong>Titulação</strong></th>
+            <th><strong>Data de Nascimento</strong></th>
             <th><strong>Apagar</strong></th>
         </tr>
         <?php
@@ -69,7 +69,7 @@
             <td><?php echo $dados['nome']?></td>
             <td><?php echo $dados['email']?></td>
             <td><?php echo $dados['titulacao']?></td>
-            <td><?php echo $dados['ano']?></td>
+            <td><?php echo $dados['dataNascimento']?></td>
         <td>
         <center>
             <button type="submit" name="btnApagar" value="<?php echo $dados['id'];?>">

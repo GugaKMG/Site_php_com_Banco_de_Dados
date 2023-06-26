@@ -1,0 +1,6 @@
+Usar ORDER BY em todas as listagens.
+
+Agrupar as disciplinas e mostrar o nome e a média de notas para cada disciplina 
+
+Criar uma função para verifixar quantos anos faltam para cada professor se aposentar por idade (65 anos). 
+Incluir coluna dataNascimento para professor.

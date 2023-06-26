@@ -73,7 +73,7 @@
     </button>
 
     <button>
-        <a href="inserir_aluno.php">Inserir</a>
+        <a href="inserir_alunos.php">Inserir</a>
     </button>
 
 </body>

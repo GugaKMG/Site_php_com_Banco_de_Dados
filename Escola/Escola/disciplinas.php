@@ -74,5 +74,9 @@
                 <a href="index.php" class="linkMenuDisc">Menu Principal</a>
         </button>
 
+        <button class="btnInserirDisc">
+            <a href="inserir_disciplinas.php" class="linkInserirDisc">Inserir</a>
+        </button>
+
 </body>
 </html>

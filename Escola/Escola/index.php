@@ -9,24 +9,28 @@
 </head>
 <body>
     
-    <button class="btnprof">
+    <button class="btnProf">
         <a href="professores.php" class="linkprof">Lista de Professores</a>
     </button>
 
-    <button class="btnaluno">
+    <button class="btnAluno">
         <a href="alunos.php" class="linkaluno">Lista de Alunos</a>
     </button>
 
-    <button class="btndisciplina">
+    <button class="btnDisciplina">
         <a href="disciplinas.php" class="linkdisc">Lista de Disciplinas</a>
     </button>
 
-    <button class="btndiscaluno">
-        <a href="aluno_disciplina.php" class="linkdiscaluno">Lista de Disciplinas e Alunos</a>
+    <button class="btnDiscAluno">
+        <a href="alunos_disciplinas.php" class="linkdiscaluno">Lista de Disciplinas e Alunos</a>
     </button>
 
-    <button class="btndiscprof">
-        <a href="professor_disciplina.php" class="linkdiscprof">Lista de Disciplinas e Professores</a>
+    <button class="btnDiscProf">
+        <a href="professores_disciplinas.php" class="linkdiscprof">Lista de Disciplinas e Professores</a>
+    </button>
+
+    <button class="btnBoletim">
+        <a href="boletim.php" class="linkBoletim">Boletim dos Alunos</a>
     </button>
 
 </body>

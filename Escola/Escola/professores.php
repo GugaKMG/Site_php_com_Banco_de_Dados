@@ -78,7 +78,7 @@
     </button>
 
     <button class="btnInserirProf">
-        <a href="inserir_professor.php" class="linkBtnInserirProf">Inserir</a>
+        <a href="inserir_professores.php" class="linkBtnInserirProf">Inserir</a>
     </button>
     
 </body>
