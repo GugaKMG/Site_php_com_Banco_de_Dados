@@ -1,0 +1,21 @@
+.btnprof {
+    font-size: 20px;
+    border-radius: 10px;
+    transition: all 0.8s;
+    background-color: lightblue;
+}
+
+.btnprof:hover {
+    background-color: black;
+}
+
+.linkprof {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    transition: all 0.8s;
+}
+
+.linkprof:hover {
+    color: white;
+}

@@ -1,0 +1,22 @@
+.btnMenuProf {
+    position: relative;
+    top: 10px;
+    background-color: lightblue;
+    border-radius: 10px;
+    transition: all 0.8s;
+}
+
+.btnMenuProf:hover {
+    background: black;
+    color: white;
+}
+
+.linkBtnMenuProf {
+    text-decoration: none;
+    color: black;
+    transition: all 0.8s;
+}
+
+.linkBtnMenuProf:hover {
+    color: white;
+}
